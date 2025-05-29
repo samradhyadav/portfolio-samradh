@@ -1,6 +1,6 @@
-# 🧑‍💻 Samradh Singh Yadav – Portfolio
+# Samradh Singh Yadav – Portfolio
 
-Welcome to my **personal portfolio website**, built using **React** and **Tailwind CSS**. This project showcases my journey as a developer — from solving problems and building applications to continuously learning and growing in the world of tech.
+Welcome to my **personal portfolio website**, built using **React** & **Tailwind CSS**. This project showcases my journey as a developer — from solving problems and building applications to continuously learning and growing in the world of tech.
 
 🌐 **Live Site**: [https://portfolio-samradh.vercel.app](https://portfolio-samradh.vercel.app)
 
