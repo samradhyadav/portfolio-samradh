@@ -39,6 +39,19 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+   {
+    title: "Smart Order Management System",
+    image: project2,
+    description:
+      "In my Smart Order Management System project, I took complete ownership of building the Customer Dashboard feature. I started by designing the UI flow and wireframes to ensure a smooth user experience. Then I implemented the frontend using React and Tailwind, integrating it with backend APIs for menu browsing, cart management, and order placement. I also handled error cases, added sorting/search features, and ensured responsive design. Finally, I tested thoroughly, deployed the frontend on Vercel and backend on Render, and debugged integration issues until it was production-ready. Owning the process end-to-end gave me strong exposure to design thinking, full-stack integration, and deployment workflows.",
+    technologies: ["React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Vercel",
+      "Render",],
+  },
   {
     title: "Credit-Risk Assessment Using Probability Statistics & Machine Learning",
     image: project1,
@@ -46,13 +59,6 @@ export const PROJECTS = [
       "Developed a predictive credit risk model leveraging probability, statistical analysis & ML to classify loan default risk!",
     technologies: ["Python", "NumPy", "Panda", "Scikit Learn", "Matplotlib", "Google Collab"],
   },
-  /*{
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },*/
   {
     title: "Portfolio Website",
     image: project3,
