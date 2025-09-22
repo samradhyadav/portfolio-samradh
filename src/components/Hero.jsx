@@ -22,7 +22,8 @@ const Hero = () => {
             variants={container(0)}
             initial="hidden"
             animate="visible"
-            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-400 to-yellow-400
+            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-cyan-300 to-teal-400
+
 
  ">
               Samradh Singh Yadav
