@@ -25,9 +25,9 @@ const About = () => {
             className="w-full lg:w-1/2 ">
                     <div className="flex justify-center lg:justify-start">
                         <p className="my-2 max-w-xl py-6 text-2xl" > 
-                            Originally from Jhansi, Uttar Pradesh, and raised in Bhilai, Chhattisgarh, my journey into coding began in college, sparked by curiosity and nurtured through mentorship from seniors, collaborative projects with friends, and the unwavering support of my family, especially my brother, whose encouragement has always pushed me to strive for more.
-                            Over time, I’ve built a solid foundation in Data Structures, Frontend Development (React, Tailwind), and core Computer Science concepts including Operating Systems, DBMS, Computer Networks, and Machine Learning. I thrive in environments where continuous learning is embraced and ideas evolve into impactful solutions.
-                            Whether it's on the cricket field or behind the screen, I bring the same energy: passion, resilience, and a relentless drive to grow.</p>
+                            Originally from Jhansi, Uttar Pradesh, and raised in Bhilai, Chhattisgarh, my journey into coding began in college: sparked by curiosity and nurtured through mentorship from seniors, collaborative projects with friends, and the unwavering support of my family, especially my brother, whose encouragement has always pushed me to strive for more.
+Over time, I’ve built a solid foundation in Data Structures, Frontend Development (React, Tailwind), and core Computer Science concepts including Operating Systems, DBMS, Computer Networks, and Machine Learning. I have also explored the backend side of development through my recent project using the MERN stack, which gave me valuable hands-on experience in building full-stack applications.
+I thrive in environments that encourage continuous learning and where ideas can evolve into impactful solutions. Whether on the cricket field or behind the screen, I bring the same energy: passion, resilience, and a relentless drive to grow.</p>
                     </div>
             </motion.div>
         </div>
