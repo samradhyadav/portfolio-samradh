@@ -22,7 +22,8 @@ const Hero = () => {
             variants={container(0)}
             initial="hidden"
             animate="visible"
-            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-slate-700 via-gray-600 to-blue-600
+            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-400 to-yellow-400
+
  ">
               Samradh Singh Yadav
             </motion.h1>
@@ -30,7 +31,8 @@ const Hero = () => {
             variants={container(0.5)}
             initial="hidden"
             animate="visible"
-            className="bg-clip-text text-4xl tracking-tight text-transparent bg-gradient-to-r from-gray-700 via-gray-500 to-gray-300
+            className="bg-clip-text text-4xl tracking-tight text-transparent bg-gradient-to-r from-sky-400 via-cyan-300 to-teal-400
+
 
 ">
               Full Stack Developer
