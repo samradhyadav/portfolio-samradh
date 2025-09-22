@@ -37,7 +37,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
             className="my-2 max-w-xl py-6 font-italic tracking-tighter text-2xl">
-            I'm a final-year B.Tech student at IIT Jammu, majoring in Chemical Engineering. While clearing JEE Advanced was a significant achievement, one of my proudest moments was being selected for the U-16 state cricket team camp, an experience that shaped my discipline, teamwork, and perseverance. Over the years, I’ve developed a growing passion for software development, fueled by curiosity, problem-solving, and the drive to build meaningful, impactful technology.
+            I'm a final-year B.Tech student at IIT Jammu, majoring in Chemical Engineering and a minor in Computer Science Engineering. Recently, I was selected for the prestigious Amazon ML Summer School 2025, which deepened my exposure to cutting-edge machine learning concepts. I also completed my internship at BPCL and there I achieved impactful results. My growing interest in software development has driven me to build and deploy full-stack projects, where I’ve explored technologies like React, Node.js, and MongoDB while solving real-world problems. These projects have strengthened my problem-solving skills and nurtured my passion for creating impactful applications. Beyond academics, I’m a state-level cricket player and currently leading IIT Jammu's cricket team in the INTER-IIT Sports Meet.
             </motion.p>
           </div>
         </div>
