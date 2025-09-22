@@ -22,14 +22,17 @@ const Hero = () => {
             variants={container(0)}
             initial="hidden"
             animate="visible"
-            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-400 to-cyan-400 ">
+            className="whitespace-nowrap pb-8 text-4xl font-italic tracking-tight lg:mt-16 lg:text-7xl text-transparent bg-clip-text bg-gradient-to-r from-slate-700 via-gray-600 to-blue-600
+ ">
               Samradh Singh Yadav
             </motion.h1>
             <motion.span 
             variants={container(0.5)}
             initial="hidden"
             animate="visible"
-            className="bg-clip-text text-4xl tracking-tight text-transparent bg-gradient-to-r from-red-300 via-slate-400 to-cyan-300">
+            className="bg-clip-text text-4xl tracking-tight text-transparent bg-gradient-to-r from-gray-700 via-gray-500 to-gray-300
+
+">
               Full Stack Developer
             </motion.span>
             <motion.p 
